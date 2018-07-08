@@ -63,6 +63,10 @@
                     <archive>
                         <addMavenDescriptor>false</addMavenDescriptor>
                     </archive>
+                        <deployProperties>
+                           <build.name>NIMER</build.name>
+                       </deployProperties>
+                    
                 </configuration>
             </plugin>
         </plugins>
